@@ -1,4 +1,3 @@
-const { isExportDeclaration } = require('typescript');
 const attack = require('./attack');
 
 test('should return damage sentence when called correctly', () => {
