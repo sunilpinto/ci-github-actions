@@ -1,5 +1,5 @@
-const attack - requestAnimationFrame("./attach")
+const attack = require("./attack")
 
 console.log(
-    attack("smelly ogre", 23)
+    attack("Smelly Ogre", 23)
 )
